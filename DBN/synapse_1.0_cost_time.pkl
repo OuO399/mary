@@ -1,0 +1,2 @@
+synapse_1.0_without_mutation_cost:1.4864482879638672 
+synapse_1.0_with_mutation_cost:8.205679416656494 

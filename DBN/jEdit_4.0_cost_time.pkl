@@ -1,0 +1,2 @@
+jEdit_4.0_without_mutation_cost:6.9836742877960205 
+jEdit_4.0_with_mutation_cost:17.72795844078064 
